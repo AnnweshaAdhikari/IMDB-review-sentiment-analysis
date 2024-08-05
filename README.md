@@ -9,3 +9,5 @@ Dataset Overview
 -> Positive - Reviews expressing favorable opinions.
 -> Negative - Reviews expressing unfavorable opinions.
 -> Uses Python 3.10
+-> Uses DistilBERT
+-> Uses CometML to showcase results on a graphical interface
